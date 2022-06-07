@@ -1,1 +1,2 @@
-# Integrate-Project-I-2021-2022-TriC
+#Demo
+This is an integrated group project for our third trimester
